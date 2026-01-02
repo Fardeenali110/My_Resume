@@ -20,7 +20,7 @@ If GitHub Pages is enabled, you can view the PDF directly at:
 `https://[your-username].github.io/[repository-name]/Fardeen-Ali-FlowCV-Resume-20260102.pdf`
 
 ### 📬 Contact
-- **Email:** zainalizawar@gmail.com  
+- **Email:** zainalizawar869@gmail.com  
 - **Phone:** 03447202130  
 - **Location:** Karachi, Pakistan
 
