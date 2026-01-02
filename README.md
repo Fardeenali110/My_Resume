@@ -1,6 +1,4 @@
-آپ README.md فائل میں صرف یہ ٹیکسٹ کاپی کریں اور اپنے GitHub repository میں ڈالیں:
 
----
 
 ## 📄 Fardeen Ali - IT Professional Resume
 
@@ -26,6 +24,3 @@ If GitHub Pages is enabled, you can view the PDF directly at:
 - **Phone:** 03447202130  
 - **Location:** Karachi, Pakistan
 
----
-
-اس کے بعد بس اسے `README.md` فائل کے طور پر اپلوڈ کر دیں۔
